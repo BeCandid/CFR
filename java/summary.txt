@@ -1,0 +1,1279 @@
+Summary for /storage/emulated/0/ShowJava/sources/com.becandid.candid/com.becandid.candid.jar
+Decompiled with CFR 0_110
+
+
+aac
+----------------------------
+
+getOpenSourceSoftwareLicenseInfo(android.content.Context )
+  Loose catch block
+isGooglePlayServicesAvailable(android.content.Context )
+  Unable to fully structure code
+
+
+aao
+----------------------------
+
+a(android.content.Context )
+  Loose catch block
+a(android.content.Intent java.lang.String )
+  Exception : java.util.ConcurrentModificationException
+
+
+aap
+----------------------------
+
+f(java.lang.String )
+  Unable to fully structure code
+
+
+aav
+----------------------------
+
+a(java.lang.String java.lang.Object java.lang.StringBuffer java.lang.StringBuffer )
+  Unable to fully structure code
+
+
+abe
+----------------------------
+
+f()
+  Unable to fully structure code
+
+
+abd
+----------------------------
+
+a(int int android.content.Intent )
+  Unable to fully structure code
+
+
+abg
+----------------------------
+
+b(aaz )
+  Exception : java.util.ConcurrentModificationException
+
+
+ace
+----------------------------
+
+a(java.lang.String )
+  Unable to fully structure code
+a(java.lang.String long )
+  Unable to fully structure code
+
+
+agg
+----------------------------
+
+C()
+  Unable to fully structure code
+a(android.os.Bundle )
+  Unable to fully structure code
+onServiceConnected(android.content.ComponentName android.os.IBinder )
+  Exception : java.util.ConcurrentModificationException
+
+
+agj
+----------------------------
+
+<init>(aby$f )
+  Unable to fully structure code
+a(java.lang.String )
+  Exception : org.benf.cfr.reader.util.CannotPerformDecode: reachable test BLOCK was exited and re-entered.
+
+
+ago
+----------------------------
+
+a(java.lang.StringBuilder int java.lang.String aby$d )
+  Unable to fully structure code
+
+
+agq
+----------------------------
+
+a(java.lang.String aca$b[] aca$g[] )
+  Unable to fully structure code
+
+
+ags
+----------------------------
+
+a(java.lang.String java.lang.String[] long )
+  Exception : java.util.ConcurrentModificationException
+a(java.lang.String aby$a )
+  Exception : java.util.ConcurrentModificationException
+C()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [3[CATCHBLOCK]], but top level block is 7[UNCONDITIONALDOLOOP]
+a(long java.lang.String boolean boolean boolean )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [4[CATCHBLOCK]], but top level block is 8[UNCONDITIONALDOLOOP]
+a(java.lang.String java.lang.String )
+  Exception : java.util.ConcurrentModificationException
+a(java.lang.String )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK]], but top level block is 12[SIMPLE_IF_TAKEN]
+a(java.lang.String int int )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [2[TRYBLOCK], 4[TRYBLOCK]], but top level block is 10[CATCHBLOCK]
+a(java.lang.String long ags$b )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [11[TRYBLOCK]], but top level block is 26[SIMPLE_IF_TAKEN]
+b(java.lang.String )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [3[TRYBLOCK]], but top level block is 5[CATCHBLOCK]
+b(long )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [4[CATCHBLOCK]], but top level block is 8[UNCONDITIONALDOLOOP]
+c(java.lang.String java.lang.String )
+  Exception : java.util.ConcurrentModificationException
+d(java.lang.String java.lang.String )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK]], but top level block is 13[SIMPLE_IF_TAKEN]
+d(java.lang.String )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [4[CATCHBLOCK]], but top level block is 8[UNCONDITIONALDOLOOP]
+e(java.lang.String java.lang.String )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK]], but top level block is 13[SIMPLE_IF_TAKEN]
+f(java.lang.String )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [2[TRYBLOCK]], but top level block is 6[CATCHBLOCK]
+a(android.database.sqlite.SQLiteDatabase java.lang.String )
+  Unable to fully structure code
+
+
+ahb
+----------------------------
+
+E()
+  Loose catch block
+
+
+yi
+----------------------------
+
+b(int T )
+  Unable to fully structure code
+a(yt java.util.Set<com.google.android.gms.common.api.Scope> )
+  Unable to fully structure code
+
+
+ahe
+----------------------------
+
+run()
+  Exception : java.lang.IllegalStateException: Backjump on non jumping statement [] lbl30 : TryStatement: try { 3[TRYBLOCK]
+
+
+
+ahg
+----------------------------
+
+<init>(aby$d )
+  Unable to fully structure code
+
+
+ahk
+----------------------------
+
+a(int java.lang.Throwable byte[] )
+  Exception : java.util.ConcurrentModificationException
+a(java.lang.String long )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [3[TRYBLOCK]], but top level block is 2[TRYBLOCK]
+H()
+  Exception : java.util.ConcurrentModificationException
+a(com.google.android.gms.measurement.internal.EventParcel com.google.android.gms.measurement.internal.AppMetadata )
+  Exception : java.util.ConcurrentModificationException
+a(com.google.android.gms.measurement.internal.EventParcel java.lang.String )
+  Exception : java.util.ConcurrentModificationException
+a(java.lang.String int java.lang.Throwable byte[] java.util.Map<java.lang.String, java.util.List<java.lang.String>> )
+  Exception : java.lang.IllegalStateException: Backjump on non jumping statement [] lbl57 : TryStatement: try { 6[TRYBLOCK]
+
+b(com.google.android.gms.measurement.internal.EventParcel java.lang.String )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+
+
+ahl
+----------------------------
+
+a(com.google.android.gms.measurement.internal.AppMetadata boolean )
+  Unable to fully structure code
+a(java.lang.String )
+  Unable to fully structure code
+a(com.google.android.gms.measurement.internal.EventParcel java.lang.String )
+  Unable to fully structure code
+
+
+aic
+----------------------------
+
+a(android.content.Context )
+  Loose catch block
+a(android.content.Intent java.lang.String )
+  Exception : java.util.ConcurrentModificationException
+
+
+aid
+----------------------------
+
+f(java.lang.String )
+  Unable to fully structure code
+
+
+ajv
+----------------------------
+
+a(java.lang.String )
+  Unable to fully structure code
+u()
+  Unable to fully structure code
+v()
+  Exception : java.util.ConcurrentModificationException
+q()
+  Exception : org.benf.cfr.reader.util.CannotPerformDecode: reachable test BLOCK was exited and re-entered.
+
+
+ajs
+----------------------------
+
+a(ajv )
+  Loose catch block
+
+
+ajt
+----------------------------
+
+a(java.lang.String java.text.ParsePosition )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: First case is not immediately after switch.
+
+
+akc
+----------------------------
+
+a(java.io.ObjectInputStream )
+  Loose catch block
+a(java.lang.String int )
+  Exception : java.util.ConcurrentModificationException
+
+
+akj
+----------------------------
+
+a(java.lang.String java.lang.Object java.lang.StringBuffer java.lang.StringBuffer )
+  Unable to fully structure code
+
+
+akz
+----------------------------
+
+a()
+  Unable to fully structure code
+
+
+al
+----------------------------
+
+b(java.lang.String )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK]], but top level block is 3[WHILELOOP]
+a(android.graphics.Path float[] char char float[] )
+  Unable to fully structure code
+
+
+alp
+----------------------------
+
+a()
+  Unable to fully structure code
+
+
+amx
+----------------------------
+
+d()
+  Unable to fully structure code
+
+
+ank
+----------------------------
+
+b(io.fabric.sdk.android.services.network.HttpRequest ann )
+  Unable to fully structure code
+
+
+ans
+----------------------------
+
+a()
+  Exception : java.util.ConcurrentModificationException
+a(long org.json.JSONObject )
+  Unable to fully structure code
+
+
+ant
+----------------------------
+
+b(io.fabric.sdk.android.services.settings.SettingsCacheBehavior )
+  Exception : java.lang.IllegalStateException: Backjump on non jumping statement [] lbl24 : TryStatement: try { 1[TRYBLOCK]
+
+
+
+ap
+----------------------------
+
+a(android.content.Context )
+  Unable to fully structure code
+
+
+apl
+----------------------------
+
+a(apr<? super R> )
+  Loose catch block
+
+
+aq
+----------------------------
+
+a(java.io.File java.io.File )
+  Exception : java.lang.IllegalStateException: Backjump on non jumping statement [] lbl36 : TryStatement: try { 3[TRYBLOCK]
+
+a(android.content.SharedPreferences$Editor )
+  Unable to fully structure code
+a(java.util.zip.ZipFile java.util.zip.ZipEntry java.io.File java.lang.String )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK]], but top level block is 2[TRYBLOCK]
+a(java.io.File )
+  Loose catch block
+
+
+aqm
+----------------------------
+
+a(boolean boolean apr<? super T> java.util.Queue<java.lang.Object> )
+  Unable to fully structure code
+
+
+aqq
+----------------------------
+
+b(long )
+  Unable to fully structure code
+
+
+aqt
+----------------------------
+
+a(java.util.concurrent.ScheduledThreadPoolExecutor )
+  Unable to fully structure code
+
+
+ari
+----------------------------
+
+offer(E )
+  Unable to fully structure code
+poll()
+  Unable to fully structure code
+
+
+ase
+----------------------------
+
+onCompleted()
+  Loose catch block
+
+
+asf
+----------------------------
+
+onNext(T )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [10[DOLOOP]], but top level block is 12[UNCONDITIONALDOLOOP]
+
+
+asp
+----------------------------
+
+call()
+  Loose catch block
+
+
+atc
+----------------------------
+
+s()
+  Unable to fully structure code
+
+
+ate
+----------------------------
+
+c(android.view.MotionEvent )
+  Unable to fully structure code
+
+
+bn
+----------------------------
+
+a(android.content.BroadcastReceiver )
+  Unable to fully structure code
+a(android.content.Intent )
+  Exception : org.benf.cfr.reader.util.CannotPerformDecode: reachable test BLOCK was exited and re-entered.
+
+
+com.becandid.candid.activities.FullScreenImageActivity
+----------------------------
+
+subscribeToUpdates(java.lang.String )
+  Unable to fully structure code
+
+
+com.becandid.candid.activities.PopupWithBlurBackgroundActivity
+----------------------------
+
+onNext(in$b )
+  Unable to fully structure code
+
+
+com.becandid.candid.activities.GroupDetailsActivity
+----------------------------
+
+onNext(com.becandid.candid.models.NetworkData )
+  Unable to fully structure code
+
+
+com.becandid.candid.activities.OnboardingActivity
+----------------------------
+
+switchFragment(java.lang.String java.lang.String android.os.Bundle )
+  Unable to fully structure code
+
+
+com.becandid.candid.data.AppState
+----------------------------
+
+loadState(android.content.ContextWrapper )
+  Unable to fully structure code
+
+
+com.becandid.candid.fragments.InviteContactPeopleFragment
+----------------------------
+
+a(java.lang.String java.lang.String )
+  Unable to fully structure code
+onCreateView(android.view.LayoutInflater android.view.ViewGroup android.os.Bundle )
+  Unable to fully structure code
+
+
+com.becandid.candid.fragments.main_tabs.ActivityTabFragment
+----------------------------
+
+onItemClick(android.view.View int )
+  Unable to fully structure code
+
+
+com.becandid.candid.fragments.main_tabs.FeedTabFragment
+----------------------------
+
+a(java.lang.String )
+  Unable to fully structure code
+
+
+com.becandid.candid.fragments.onboarding.OnboardingPhoneFragment
+----------------------------
+
+onCreateView(android.view.LayoutInflater android.view.ViewGroup android.os.Bundle )
+  Unable to fully structure code
+
+
+com.becandid.candid.services.PushNotificationReceiver
+----------------------------
+
+a(android.os.Bundle java.lang.String )
+  Unable to fully structure code
+a(java.lang.String java.lang.String java.lang.String java.lang.String android.os.Bundle )
+  Exception : java.util.ConcurrentModificationException
+onReceive(android.content.Context android.content.Intent )
+  Exception : java.util.ConcurrentModificationException
+
+
+com.becandid.candid.views.GroupStackView
+----------------------------
+
+onTouch(android.view.View android.view.MotionEvent )
+  Unable to fully structure code
+
+
+com.becandid.candid.views.viewholders.BasePostViewHolder
+----------------------------
+
+a(com.becandid.candid.views.viewholders.BasePostViewHolder com.becandid.candid.data.Post )
+  Unable to fully structure code
+onMenuItemClick(android.view.MenuItem )
+  Unable to fully structure code
+a(com.becandid.candid.models.NetworkData )
+  Unable to fully structure code
+
+
+com.becandid.candid.views.viewholders.MessagePostViewHolder
+----------------------------
+
+a(com.becandid.candid.views.viewholders.MessagePostViewHolder com.becandid.candid.data.Message )
+  Unable to fully structure code
+
+
+com.facebook.FacebookRequestError
+----------------------------
+
+a(org.json.JSONObject java.lang.Object java.net.HttpURLConnection )
+  Unable to fully structure code
+
+
+com.facebook.GraphRequest
+----------------------------
+
+a(un )
+  Unable to fully structure code
+a(un java.net.HttpURLConnection )
+  Exception : java.util.ConcurrentModificationException
+
+
+com.facebook.login.LoginMethodHandler
+----------------------------
+
+c(java.lang.String )
+  Loose catch block
+
+
+com.facebook.login.LoginClient
+----------------------------
+
+c(com.facebook.login.LoginClient$Result )
+  Unable to fully structure code
+
+
+com.facebook.login.widget.ProfilePictureView
+----------------------------
+
+setProfileId(java.lang.String )
+  Unable to fully structure code
+
+
+com.facebook.share.internal.LikeBoxCountView
+----------------------------
+
+onDraw(android.graphics.Canvas )
+  Unable to fully structure code
+
+
+vl
+----------------------------
+
+c(CONTENT java.lang.Object )
+  Unable to fully structure code
+
+
+com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+----------------------------
+
+a(android.content.Context java.lang.String android.content.Intent )
+  Unable to fully structure code
+
+
+com.google.firebase.iid.FirebaseInstanceIdService
+----------------------------
+
+a(android.content.Intent boolean )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Extractable last case doesn't follow previous
+b(android.content.Intent )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Extractable last case doesn't follow previous
+
+
+com.google.i18n.phonenumbers.PhoneNumberUtil
+----------------------------
+
+a(java.lang.String java.lang.String boolean boolean com.google.i18n.phonenumbers.Phonenumber$PhoneNumber )
+  Exception : java.util.ConcurrentModificationException
+
+
+dc
+----------------------------
+
+a(java.lang.String )
+  Loose catch block
+b(java.util.Locale )
+  Loose catch block
+
+
+dw
+----------------------------
+
+a(android.view.MotionEvent )
+  Unable to fully structure code
+
+
+fb
+----------------------------
+
+b(android.view.View )
+  Loose catch block
+
+
+fc
+----------------------------
+
+d(android.view.View )
+  Unable to fully structure code
+e(android.view.View )
+  Unable to fully structure code
+
+
+he
+----------------------------
+
+a(jc int )
+  Unable to fully structure code
+onMenuItemClick(android.view.MenuItem )
+  Unable to fully structure code
+getItemViewType(int )
+  Unable to fully structure code
+
+
+hf
+----------------------------
+
+getItemViewType(int )
+  Exception : org.benf.cfr.reader.util.CannotPerformDecode: reachable test BLOCK was exited and re-entered.
+
+
+hj
+----------------------------
+
+a(int )
+  Unable to fully structure code
+
+
+hu
+----------------------------
+
+onItemClick(android.view.View int )
+  Unable to fully structure code
+
+
+i
+----------------------------
+
+c()
+  Unable to fully structure code
+
+
+ik
+----------------------------
+
+i()
+  Loose catch block
+
+
+it
+----------------------------
+
+b(android.net.Uri )
+  Unable to fully structure code
+a(int int android.content.Intent )
+  Unable to fully structure code
+a(android.net.Uri int )
+  Loose catch block
+a(java.lang.String android.net.Uri int )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK]], but top level block is 14[SIMPLE_IF_TAKEN]
+onClick(android.content.DialogInterface int )
+  Unable to fully structure code
+
+
+iy
+----------------------------
+
+b()
+  Exception : java.util.ConcurrentModificationException
+a(java.lang.String[] )
+  Unable to fully structure code
+
+
+jb
+----------------------------
+
+a(java.lang.String int int int )
+  Unable to fully structure code
+a(java.lang.String int java.lang.String )
+  Exception : java.util.ConcurrentModificationException
+b(java.lang.String )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [5[CASE]], but top level block is 1[TRYBLOCK]
+
+
+jh
+----------------------------
+
+onMenuItemClick(android.view.MenuItem )
+  Unable to fully structure code
+
+
+jo
+----------------------------
+
+a(android.view.View java.lang.String android.view.ViewGroup java.util.Map<java.lang.String, java.lang.String> )
+  Unable to fully structure code
+a(android.view.View java.lang.String android.view.ViewGroup java.util.Map<java.lang.String, java.lang.String> )
+  Unable to fully structure code
+a(android.view.View java.lang.String android.view.ViewGroup java.util.Map<java.lang.String, java.lang.String> )
+  Unable to fully structure code
+a(android.view.View java.lang.String android.view.ViewGroup java.util.Map<java.lang.String, java.lang.String> )
+  Unable to fully structure code
+a(android.view.View java.util.Map<java.lang.String, java.lang.String> android.view.ViewGroup )
+  Unable to fully structure code
+a(java.lang.Object java.lang.String boolean android.view.View )
+  Exception : java.util.ConcurrentModificationException
+c(java.lang.String )
+  Unable to fully structure code
+
+
+ka
+----------------------------
+
+a(ka$a boolean )
+  Unable to fully structure code
+b()
+  Unable to fully structure code
+d()
+  Exception : java.util.ConcurrentModificationException
+
+
+kd
+----------------------------
+
+a(ke )
+  Unable to fully structure code
+
+
+kj
+----------------------------
+
+c()
+  Unable to fully structure code
+
+
+kk
+----------------------------
+
+a()
+  Unable to fully structure code
+
+
+kx
+----------------------------
+
+a()
+  Unable to fully structure code
+
+
+lb
+----------------------------
+
+e()
+  Exception : java.util.ConcurrentModificationException
+a(java.io.File )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+
+
+ly
+----------------------------
+
+a(kn lu$b )
+  Exception : java.util.ConcurrentModificationException
+
+
+ml
+----------------------------
+
+a(com.bumptech.glide.Priority )
+  Unable to fully structure code
+
+
+nu
+----------------------------
+
+a(java.io.InputStream com.bumptech.glide.load.DecodeFormat )
+  Exception : java.util.ConcurrentModificationException
+a(java.io.InputStream )
+  Exception : java.util.ConcurrentModificationException
+a(java.io.InputStream ln int int com.bumptech.glide.load.DecodeFormat )
+  Exception : java.util.ConcurrentModificationException
+
+
+oa
+----------------------------
+
+a(mm int int )
+  Unable to fully structure code
+
+
+okhttp3.Cache
+----------------------------
+
+put(okhttp3.Response )
+  Loose catch block
+
+
+okhttp3.ConnectionPool
+----------------------------
+
+run()
+  Exception : java.util.ConcurrentModificationException
+
+
+okhttp3.Cookie
+----------------------------
+
+parse(long okhttp3.HttpUrl java.lang.String )
+  Unable to fully structure code
+
+
+okhttp3.HttpUrl
+----------------------------
+
+percentDecode(okio.Buffer java.lang.String int int boolean )
+  Unable to fully structure code
+decodeIpv6(java.lang.String int int )
+  Unable to fully structure code
+portColonOffset(java.lang.String int int )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Extractable last case doesn't follow previous
+parse(okhttp3.HttpUrl java.lang.String )
+  Exception : java.util.ConcurrentModificationException
+
+
+okhttp3.OkHttpClient
+----------------------------
+
+<init>(okhttp3.OkHttpClient$Builder )
+  Unable to fully structure code
+
+
+okhttp3.RealCall
+----------------------------
+
+getResponse(okhttp3.Request boolean )
+  Unable to fully structure code
+
+
+okhttp3.TlsVersion
+----------------------------
+
+forJavaName(java.lang.String )
+  Unable to fully structure code
+
+
+okhttp3.internal.ConnectionSpecSelector
+----------------------------
+
+configureSecureSocket(javax.net.ssl.SSLSocket )
+  Unable to fully structure code
+
+
+okhttp3.internal.DiskLruCache
+----------------------------
+
+completeEdit(okhttp3.internal.DiskLruCache$Editor boolean )
+  Unable to fully structure code
+readJournal()
+  Unable to fully structure code
+rebuildJournal()
+  Exception : java.util.ConcurrentModificationException
+abortUnlessCommitted()
+  Unable to fully structure code
+
+
+okhttp3.internal.Platform
+----------------------------
+
+findPlatform()
+  Unable to fully structure code
+trustManager(javax.net.ssl.SSLSocketFactory )
+  Loose catch block
+
+
+okhttp3.internal.Util
+----------------------------
+
+closeAll(java.io.Closeable java.io.Closeable )
+  Unable to fully structure code
+skipAll(okio.Source int java.util.concurrent.TimeUnit )
+  Exception : java.util.ConcurrentModificationException
+toHumanReadableAscii(java.lang.String )
+  Unable to fully structure code
+
+
+okhttp3.internal.framed.FramedConnection
+----------------------------
+
+close(okhttp3.internal.framed.ErrorCode okhttp3.internal.framed.ErrorCode )
+  Exception : java.util.ConcurrentModificationException
+execute()
+  Unable to fully structure code
+writeData(int boolean okio.Buffer long )
+  Unable to fully structure code
+execute()
+  Unable to fully structure code
+
+
+okhttp3.internal.framed.FramedStream
+----------------------------
+
+getResponseHeaders()
+  Exception : java.util.ConcurrentModificationException
+emitDataFrame(boolean )
+  Exception : java.util.ConcurrentModificationException
+receive(okio.BufferedSource long )
+  Unable to fully structure code
+
+
+okhttp3.internal.framed.Http2
+----------------------------
+
+readSettings(okhttp3.internal.framed.FrameReader$Handler int byte int )
+  Unable to fully structure code
+
+
+okhttp3.internal.framed.Huffman
+----------------------------
+
+decode(byte[] )
+  Unable to fully structure code
+
+
+okhttp3.internal.framed.Spdy3
+----------------------------
+
+nextFrame(okhttp3.internal.framed.FrameReader$Handler )
+  Unable to fully structure code
+
+
+okhttp3.internal.http.Http2xStream
+----------------------------
+
+spdy3HeadersList(okhttp3.Request )
+  Unable to fully structure code
+
+
+okhttp3.internal.http.HttpEngine
+----------------------------
+
+read(okio.Buffer long )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK]], but top level block is 2[SIMPLE_IF_TAKEN]
+sendRequest()
+  Exception : java.util.ConcurrentModificationException
+
+
+okhttp3.internal.http.StreamAllocation
+----------------------------
+
+deallocate(boolean boolean boolean )
+  Unable to fully structure code
+
+
+okhttp3.internal.io.RealConnection
+----------------------------
+
+connectTls(int int okhttp3.internal.ConnectionSpecSelector )
+  Exception : java.util.ConcurrentModificationException
+connect(int int int java.util.List<okhttp3.ConnectionSpec> boolean )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK]], but top level block is 4[UNCONDITIONALDOLOOP]
+isHealthy(boolean )
+  Unable to fully structure code
+
+
+okhttp3.internal.tls.DistinguishedNameParser
+----------------------------
+
+hexAV()
+  Unable to fully structure code
+
+
+okhttp3.logging.HttpLoggingInterceptor
+----------------------------
+
+intercept(okhttp3.Interceptor$Chain )
+  Loose catch block
+
+
+okio.Base64
+----------------------------
+
+decode(java.lang.String )
+  Unable to fully structure code
+encode(byte[] byte[] )
+  Unable to fully structure code
+
+
+okio.Buffer
+----------------------------
+
+readFrom(java.io.InputStream long boolean )
+  Unable to fully structure code
+indexOf(byte long )
+  Unable to fully structure code
+indexOf(okio.ByteString long )
+  Unable to fully structure code
+indexOfElement(okio.ByteString long )
+  Unable to fully structure code
+readHexadecimalUnsignedLong()
+  Unable to fully structure code
+writeUtf8(java.lang.String int int )
+  Unable to fully structure code
+
+
+okio.ByteString
+----------------------------
+
+toAsciiLowercase()
+  Unable to fully structure code
+toAsciiUppercase()
+  Unable to fully structure code
+
+
+okio.DeflaterSink
+----------------------------
+
+close()
+  Unable to fully structure code
+
+
+okio.GzipSink
+----------------------------
+
+close()
+  Unable to fully structure code
+
+
+okio.InflaterSource
+----------------------------
+
+read(okio.Buffer long )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [2[DOLOOP]], but top level block is 0[TRYBLOCK]
+
+
+okio.RealBufferedSink
+----------------------------
+
+close()
+  Exception : java.util.ConcurrentModificationException
+
+
+okio.RealBufferedSource
+----------------------------
+
+indexOf(okio.ByteString long )
+  Unable to fully structure code
+skip(long )
+  Unable to fully structure code
+
+
+ov
+----------------------------
+
+a(lj<on> java.io.OutputStream )
+  Exception : java.util.ConcurrentModificationException
+
+
+rw
+----------------------------
+
+a()
+  Exception : java.util.ConcurrentModificationException
+
+
+sn
+----------------------------
+
+a(android.content.Context )
+  Loose catch block
+
+
+ss
+----------------------------
+
+a(android.content.Context )
+  Exception : java.util.ConcurrentModificationException
+
+
+te
+----------------------------
+
+a(java.io.File java.lang.String java.io.File[] java.io.File )
+  Exception : java.util.ConcurrentModificationException
+a(ud )
+  Exception : java.util.ConcurrentModificationException
+b(java.util.Date java.lang.Thread java.lang.Throwable )
+  Exception : java.util.ConcurrentModificationException
+c(java.util.Date java.lang.Thread java.lang.Throwable )
+  Unable to fully structure code
+f(java.lang.String )
+  Exception : java.util.ConcurrentModificationException
+
+
+tn
+----------------------------
+
+a(java.lang.String )
+  Unable to fully structure code
+b(java.lang.String )
+  Unable to fully structure code
+
+
+ts
+----------------------------
+
+b()
+  Unable to fully structure code
+
+
+uh
+----------------------------
+
+a(un )
+  Exception : java.util.ConcurrentModificationException
+
+
+ul
+----------------------------
+
+c(android.content.Context )
+  Unable to fully structure code
+
+
+uo
+----------------------------
+
+a(java.net.HttpURLConnection un )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK]], but top level block is 2[TRYBLOCK]
+
+
+uz
+----------------------------
+
+a()
+  Exception : java.util.ConcurrentModificationException
+a(com.facebook.appevents.PersistedEvents )
+  Unable to fully structure code
+
+
+vg
+----------------------------
+
+a(android.content.Context )
+  Exception : java.util.ConcurrentModificationException
+
+
+vp
+----------------------------
+
+d()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK]], but top level block is 13[WHILELOOP]
+a(java.lang.String java.lang.String )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK]], but top level block is 9[SIMPLE_IF_TAKEN]
+
+
+vr
+----------------------------
+
+b(vr$d android.content.Context )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK]], but top level block is 3[SWITCH]
+b(vr$d android.content.Context boolean )
+  Unable to fully structure code
+
+
+vy
+----------------------------
+
+a(android.net.Uri boolean java.io.File )
+  Unable to fully structure code
+
+
+vz
+----------------------------
+
+b(vz$c )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK]], but top level block is 4[CATCHBLOCK]
+
+
+wa
+----------------------------
+
+onServiceDisconnected(android.content.ComponentName )
+  Unable to fully structure code
+
+
+wd
+----------------------------
+
+a(android.net.Uri )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK]], but top level block is 13[SIMPLE_IF_TAKEN]
+
+
+we
+----------------------------
+
+a(java.io.InputStream java.io.OutputStream )
+  Unable to fully structure code
+a(java.io.InputStream )
+  Exception : java.util.ConcurrentModificationException
+a(android.os.Bundle java.lang.String java.util.Date )
+  Loose catch block
+a(org.json.JSONObject android.content.Context )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [2[TRYBLOCK]], but top level block is 6[SIMPLE_IF_TAKEN]
+b()
+  Exception : java.util.ConcurrentModificationException
+
+
+wm
+----------------------------
+
+a(int android.content.Intent uk<wn> )
+  Unable to fully structure code
+
+
+wl
+----------------------------
+
+a(com.facebook.login.LoginClient$Request )
+  Unable to fully structure code
+
+
+wz
+----------------------------
+
+a(org.json.JSONObject boolean )
+  Exception : java.util.ConcurrentModificationException
+
+
+z
+----------------------------
+
+a(int[] )
+  Unable to fully structure code
+
+
+zb
+----------------------------
+
+c(android.content.Context )
+  Exception : java.util.ConcurrentModificationException
+
+
+zo
+----------------------------
+
+a(K[] V[] )
+  Unable to fully structure code
+
+
+zq
+----------------------------
+
+a(android.content.res.Resources )
+  Exception : java.util.ConcurrentModificationException
+
+
+zu
+----------------------------
+
+a(int )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [7[CATCHBLOCK]], but top level block is 13[UNCONDITIONALDOLOOP]
